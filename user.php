@@ -142,7 +142,7 @@
 		public function login()
 		{
 			if ($this->isPasswordCorrect()) {
-				header("Location:private_page.php");
+				header("Location:home.html");
 			}
 		}
 
