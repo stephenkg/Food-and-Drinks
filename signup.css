@@ -1,0 +1,46 @@
+#form-errors {
+    color: red;
+}
+
+
+/*---- Header Styling
+----------------------*/
+
+.header {
+    background-color: antiquewhite;
+    color: black;
+    margin: 12px;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    color: Black;
+    font-weight: bold;
+    font-size: 44px;
+}
+
+form {
+    background-color: antiquewhite;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    align-content: center;
+    padding: 12px;
+}
+
+input {
+    padding: 12px;
+    border-radius: 12px;
+}
+
+button {
+    padding: 12px;
+    border-radius: 12px;
+}
+
+a {
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
